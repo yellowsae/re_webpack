@@ -1,0 +1,11 @@
+body {
+  background: pink;
+  width: 10px auto;
+  /* 新增： CSS */
+  font-size: 12px;
+  font-weight: 600;
+  color: white;
+  position: fixed;  
+  left: 50%;
+  transform: translateX(-50%);
+}
